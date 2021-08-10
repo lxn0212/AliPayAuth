@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "AliPayAuth"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "支付宝简易授权登录"
   spec.description  = <<-DESC
     TODO: 支付宝简易授权登录.
